@@ -1,0 +1,40 @@
+/*
+* Rafa Cabezas Aranda
+* Carta con estilo CSS
+*/
+
+body {
+    width: 50%;
+}
+
+#datosContacto {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    line-height: 75px;
+}
+
+h2 {
+    color: darkslategray;
+    font-weight: lighter;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+dt {
+    word-spacing: 10px;
+}
+
+ul>li {
+    list-style: none;
+}
+
+#footer {
+    margin-top: 50px;
+    writing-mode: vertical-rl;
+}
